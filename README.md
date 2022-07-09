@@ -19,6 +19,11 @@
 <!--
 **nikisha-scipt/nikisha-scipt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+##### Projects:
+1. [Console CRUD app using JDBC](https://github.com/nikisha-script/tracker)
+2. [Job grabber(HTML Parser using JSOP)](https://github.com/nikisha-script/job4j_grabber)
+3. [Pooh JMS](https://github.com/nikisha-script/job4j_pooh)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
