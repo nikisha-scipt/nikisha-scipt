@@ -13,16 +13,16 @@
 ![Maven](https://img.shields.io/badge/Maven-3-red)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%207-blue)
 
+##### Projects:
+1. [Console CRUD app using JDBC](https://github.com/nikisha-script/tracker)
+2. [Job grabber(HTML Parser using JSOP)](https://github.com/nikisha-script/job4j_grabber)
+3. [Pooh JMS](https://github.com/nikisha-script/job4j_pooh)
+
 ![Nikisha's github stats](https://github-readme-stats.vercel.app/api?username=nikisha-script&hide=stars,prs,issues,contribs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikisha-script&layout=compact)
 <!--
 **nikisha-scipt/nikisha-scipt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-##### Projects:
-1. [Console CRUD app using JDBC](https://github.com/nikisha-script/tracker)
-2. [Job grabber(HTML Parser using JSOP)](https://github.com/nikisha-script/job4j_grabber)
-3. [Pooh JMS](https://github.com/nikisha-script/job4j_pooh)
 
 Here are some ideas to get you started:
 
