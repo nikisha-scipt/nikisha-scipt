@@ -17,6 +17,7 @@
 1. [Console CRUD app using JDBC](https://github.com/nikisha-script/tracker)
 2. [Job grabber(HTML Parser using JSOP)](https://github.com/nikisha-script/job4j_grabber)
 3. [Pooh JMS](https://github.com/nikisha-script/job4j_pooh)
+4. [infotecs](https://github.com/nikisha-script/infotecs)
 
 ![Nikisha's github stats](https://github-readme-stats.vercel.app/api?username=nikisha-script&hide=stars,prs,issues,contribs)
 
