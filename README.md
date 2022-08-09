@@ -13,6 +13,15 @@
 ![Maven](https://img.shields.io/badge/Maven-3-red)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%207-blue)
 
+#### Educational projects:
+1. [Jave EE](https://github.com/nikisha-script/job4j_elementary)
+2. [Spring](https://github.com/nikisha-script/java.example.spring.product)
+3. [Java NIO](https://github.com/nikisha-script/simple-storage-network)
+4. [multithreading](https://github.com/nikisha-script/job4j_threads)
+5. [hibernate](https://github.com/nikisha-script/job4j_hibernate)
+6. [collection, io, sql, gc, solid](https://github.com/nikisha-script/job4j_design)
+7. [interview](https://github.com/nikisha-script/job4j_questions)
+
 ##### Projects:
 1. [Console CRUD app using JDBC](https://github.com/nikisha-script/tracker)
 2. [Job grabber(HTML Parser using JSOP)](https://github.com/nikisha-script/job4j_grabber)
