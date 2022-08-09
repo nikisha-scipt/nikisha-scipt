@@ -14,7 +14,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%207-blue)
 
 #### Educational projects:
-1. [Jave EE](https://github.com/nikisha-script/job4j_elementary)
+1. [Jave SE](https://github.com/nikisha-script/job4j_elementary)
 2. [Spring](https://github.com/nikisha-script/java.example.spring.product)
 3. [Java NIO](https://github.com/nikisha-script/simple-storage-network)
 4. [multithreading](https://github.com/nikisha-script/job4j_threads)
