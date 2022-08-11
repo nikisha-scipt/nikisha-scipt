@@ -16,7 +16,7 @@
 #### Educational projects:
 1. [Jave SE](https://github.com/nikisha-script/job4j_elementary)
 2. [Spring](https://github.com/nikisha-script/java.example.spring.product)
-3. [Java NIO](https://github.com/nikisha-script/simple-storage-network)
+3. [Java netty](https://github.com/nikisha-script/simple-storage-network)
 4. [multithreading](https://github.com/nikisha-script/job4j_threads)
 5. [hibernate](https://github.com/nikisha-script/job4j_hibernate)
 6. [collection, io, sql, gc, solid](https://github.com/nikisha-script/job4j_design)
