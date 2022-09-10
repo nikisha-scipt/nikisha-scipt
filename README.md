@@ -27,8 +27,8 @@
 2. [Job grabber(HTML Parser using JSOP)](https://github.com/nikisha-script/job4j_grabber)
 3. [Pooh JMS rabbitMQ](https://github.com/nikisha-script/job4j_pooh)
 4. [infotecs](https://github.com/nikisha-script/infotecs)
-5. [Job market using REST API & Hibernate](https://github.com/nikisha-script/job4j_dreamjob)
-6. [cinema RESTful API](https://github.com/nikisha-script/job4j_cinema)
+5. [Job market using springboot & Hibernate](https://github.com/nikisha-script/job4j_dreamjob)
+6. [cinema springboot](https://github.com/nikisha-script/job4j_cinema)
 
 ![Nikisha's github stats](https://github-readme-stats.vercel.app/api?username=nikisha-script&hide=stars,prs,issues,contribs)
 
