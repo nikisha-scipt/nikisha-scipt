@@ -30,6 +30,7 @@
 5. [Job market using springboot & Hibernate](https://github.com/nikisha-script/job4j_dreamjob)
 6. [cinema springboot](https://github.com/nikisha-script/job4j_cinema)
 7. [reactive weather rest api](https://github.com/nikisha-script/weather_reactive)
+8. [car sales app using springboot hibernate](https://github.com/nikisha-script/job4j_cars)
 
 ![Nikisha's github stats](https://github-readme-stats.vercel.app/api?username=nikisha-script&hide=stars,prs,issues,contribs)
 
