@@ -36,7 +36,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikisha-script&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikisha-script&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikisha-script&layout=compact&theme=radical)
 
 <!--
 **nikisha-scipt/nikisha-scipt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
