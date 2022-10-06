@@ -33,7 +33,8 @@
 8. [car sales app using springboot hibernate](https://github.com/nikisha-script/job4j_cars)
 9. [url short cut (unique code for link) rest api](https://github.com/nikisha-script/job4j_url_short_cut)
 
-![Nikisha's github stats](https://github-readme-stats.vercel.app/api?username=nikisha-script&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikisha-script&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikisha-script&layout=compact)
 
