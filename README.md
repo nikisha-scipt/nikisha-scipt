@@ -1,9 +1,9 @@
 ### Hi! 👋 My name is Danil. Welcome! :v:
 
-* I am 26 years old, programmer from Saint-Petersburg. :computer:
+* I am a 26-year-old programmer from St. Petersburg. :computer:
 * I learn Java at [Job4j](https://job4j.ru/) :coffee:
 * I graduated from St. Petersburg State Marine Technical University in 2019 with a degree in automatic and telemechanical control and monitoring systems [smtu](https://www.smtu.ru/). :office: :anchor:
-* My Java experience is 1 year :watch:
+* My work experience in Java is 1 year :watch:
 
 -----------
 <b>Core technologies:</b>
