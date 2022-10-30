@@ -40,12 +40,14 @@
 15. [food order microservices: springboot, react, kafka, docker, kubernetes](https://github.com/nikisha-script/job4j_fast_food)
 
 
-![snake](https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/nikisha-script/nikisha-script/output/github-contribution-grid-snake.svg)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikisha-script&show_icons=true&hide=stars,prs,issues&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikisha-script&layout=compact&theme=radical)
+
+![](https://activity-graph.herokuapp.com/graph?username=nikisha-script&theme=redical)
 
 <!--
 **nikisha-scipt/nikisha-scipt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
