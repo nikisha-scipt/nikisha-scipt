@@ -40,7 +40,7 @@
 15. [food order microservices: springboot, react, kafka, docker, kubernetes](https://github.com/nikisha-script/job4j_fast_food)
 
 
-![snake](https://raw.githubusercontent.com/nikisha-script/nikisha-script/output/github-contribution-grid-snake.svg)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikisha-script&show_icons=true&hide=stars,prs,issues&theme=radical)
