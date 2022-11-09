@@ -5,6 +5,15 @@
 * I graduated from St. Petersburg State Marine Technical University in 2019 with a degree in automatic and telemechanical control and monitoring systems [smtu](https://www.smtu.ru/). :office: :anchor:
 * My work experience in Java is 1 year :watch:
 
+### hey there
+![](https://visitor-badge.glitch.me/badge?page_id=nikisha-script)
+<a href="https://vk.com/d.nikishin">
+  <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/3670/3670254.png" />
+</a>
+<a href="https://discordapp.com/users/437289359448735744/">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+
 -----------
 <b>Core technologies:</b>
 >![Java](https://img.shields.io/badge/Java-%3E%3D%208-orange) 
@@ -48,15 +57,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikisha-script&layout=compact&theme=radical)
 
 ![](https://activity-graph.herokuapp.com/graph?username=nikisha-script&theme=redical)
-
-### hey there
-![](https://visitor-badge.glitch.me/badge?page_id=nikisha-script)
-<a href="https://vk.com/d.nikishin">
-  <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/3670/3670254.png" />
-</a>
-<a href="https://discordapp.com/users/437289359448735744/">
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 
 
 <!--
