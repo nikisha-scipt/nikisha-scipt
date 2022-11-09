@@ -49,6 +49,13 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=nikisha-script&theme=redical)
 
+### hey there
+![](https://visitor-badge.glitch.me/badge?page_id=nikisha-script)
+<a href="https://vk.com/d.nikishin">
+  <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/3669/3669937.png" />
+</a>
+
+
 <!--
 **nikisha-scipt/nikisha-scipt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
