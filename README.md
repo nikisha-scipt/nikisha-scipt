@@ -52,7 +52,10 @@
 ### hey there
 ![](https://visitor-badge.glitch.me/badge?page_id=nikisha-script)
 <a href="https://vk.com/d.nikishin">
-  <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/3669/3669937.png" />
+  <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/3670/3670254.png" />
+</a>
+<a href="https://discordapp.com/users/437289359448735744/">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
 
